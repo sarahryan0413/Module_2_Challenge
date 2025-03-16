@@ -27,4 +27,6 @@ To make this even more insightful, I added functionality to identify:
 - Learned how to work with large datasets efficiently
 - Automated data extraction and analysis for better insights
 
-This project was a great way to sharpen my VBA skills and automate real-world data analysis. On to the next challenge! 💪🔥
+This project was a great way to sharpen my VBA skills and automate real-world data analysis. On to the next challenge! 💪🔥  
+
+📊 Data provided by edX Boot Camps LLC for educational purposes.
